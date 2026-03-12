@@ -36,7 +36,6 @@ The dataset included:
 | Notes | Free-text inconsistencies |
 
 ### Raw Data Sample:
-
 ![image.png](attachment:c84508d9-2f3b-49e8-a407-65a7a134ac73:image.png)
 
 ## Phase 1: Data Profiling (Pre-Cleaning)
