@@ -36,7 +36,8 @@ The dataset included:
 | Notes | Free-text inconsistencies |
 
 ### Raw Data Sample:
-![image.png](attachment:c84508d9-2f3b-49e8-a407-65a7a134ac73:image.png)
+<img width="941" height="706" alt="Screenshot 2026-02-17 211643" src="https://github.com/user-attachments/assets/798f9f7d-a069-460e-a6a7-3e7589f9573e" />
+
 
 ## Phase 1: Data Profiling (Pre-Cleaning)
 
@@ -60,7 +61,8 @@ Before transformation, a dedicated profiling sheet was built to quantify data qu
 
 This confirmed the dataset was not import-ready.
 
-![image.png](attachment:5c0e9b70-04f0-4e6b-9c9f-79e951af3b55:image.png)
+<img width="396" height="205" alt="Screenshot 2026-02-20 015724" src="https://github.com/user-attachments/assets/49dfcee1-9a94-47af-8102-185b6aaf8ea1" />
+
 
 ## Phase 2: Deduplication Strategy
 
@@ -120,9 +122,10 @@ tbl_vendor_map[Standard Vendor]),
 )
 ```
 
-![image.png](attachment:8f69b721-0bad-468d-aa6c-0d27b2e0de86:image.png)
+<img width="1369" height="755" alt="Screenshot 2026-02-18 091511" src="https://github.com/user-attachments/assets/f4071829-6ad4-4eec-98fa-2dcd737e7dd6" />
 
-![image.png](attachment:c3e91b10-4911-4d63-a734-cd4c3f8ef04d:image.png)
+
+<img width="322" height="502" alt="Screenshot 2026-02-19 222101" src="https://github.com/user-attachments/assets/874111eb-2ac6-405a-a236-10eab6091956" />
 
 ### Validation
 
@@ -230,7 +233,8 @@ Built final QA Summary sheet with reconciliation checks:
 - Date Validation Check
 - Vendor Mapping Check
 
-![image.png](attachment:a3bdf511-0d4d-4f98-b341-a121fda04d9a:image.png)
+<img width="790" height="507" alt="Screenshot 2026-02-19 230819" src="https://github.com/user-attachments/assets/12dfe13c-b5a1-4fe9-9573-f75d36e2fb47" />
+
 
 All integrity checks returned valid results.
 
@@ -238,7 +242,8 @@ All integrity checks returned valid results.
 
 ### Conditional Formatting using new set of rules:
 
-![image.png](attachment:24510939-1351-44ed-a2bd-d757e69463ec:image.png)
+<img width="1117" height="502" alt="Screenshot 2026-02-19 222751" src="https://github.com/user-attachments/assets/0c204c0c-f91a-4c6e-8ede-8f3baf14a10f" />
+
 
 ---
 
