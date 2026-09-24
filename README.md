@@ -40,7 +40,7 @@ The dataset included:
 
 
 ## Project Flow:
-
+<img width="941" height="706" alt="Screenshot 2026-02-17 211643" src="https://github.com/Nishi-W10/Client-Data-Transformation-Import-Readiness-Framework-45K-Records-/blob/main/diagram%20(1).png" />
 
 ## Phase 1: Data Profiling (Pre-Cleaning)
 
