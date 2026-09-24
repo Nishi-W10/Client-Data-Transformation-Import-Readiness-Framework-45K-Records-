@@ -39,6 +39,9 @@ The dataset included:
 <img width="941" height="706" alt="Screenshot 2026-02-17 211643" src="https://github.com/user-attachments/assets/798f9f7d-a069-460e-a6a7-3e7589f9573e" />
 
 
+## Project Flow:
+
+
 ## Phase 1: Data Profiling (Pre-Cleaning)
 
 Before transformation, a dedicated profiling sheet was built to quantify data quality issues.
